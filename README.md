@@ -7,5 +7,5 @@ Client Side Requirements
 
 Customizations:
 
-1. Search-AD FUNCTION
+1. Search-AD (function)
    Configure object properties accordingly (i.e. 'extensionAttribute#")
